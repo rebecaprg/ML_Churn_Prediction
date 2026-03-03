@@ -48,9 +48,15 @@ Special attention is given to Recall, as correctly identifying customers who are
 
 ## 🗂️ Repository Structure
 ```bash
-├── Notebook_FINAL.ipynb
-├── README.md
-└── data/ (optional)
+├── src/                # Source directory containing the rest of the folders
+│   ├── data_sample/    # Sample data files to allow the code to run
+│   ├── img/            # Images used in the project
+│   ├── models/         # Saved models in pickle or joblib format
+│   ├── notebooks/      # Development and testing notebooks
+│   ├── utils/          # Modules, helper functions, or classes created for the project
+├── main.ipynb          # Final notebook
+├── Presentation.pdf    # Supporting document for the video presentation
+├── README.md           # README file summarizing the project
 ```
 ---
 
@@ -156,9 +162,15 @@ Se presta especial atención al Recall, ya que en problemas de churn es crítico
 
 ## 🗂️ Estructura del repositorio
 ```bash
-├── Notebook_FINAL.ipynb      # Desarrollo completo del proyecto
-├── README.md                 # Documentación del proyecto
-└── data/ (opcional)          # Dataset si se incluye en el repositorio
+├── src/                # El directorio source que contiene el resto de carpetas
+│   ├── data_sample/    # Archivos de datos de muestra que permiten ejecutar el código
+│   ├── img/            # Imágenes utilizadas en el proyecto
+│   ├── models/         # Modelos guardados en formato pickle o joblib
+│   ├── notebooks/      # Notebooks de desarrollo y pruebas
+│   ├── utils/          # Módulos, funciones auxiliares o clases creadas para el proyecto
+├── main.ipynb          # Notebook final
+├── Presentacion.pdf    # Documento soporte de la exposición en vídeo
+├── README.md           # Fichero README resumen del proyecto
 ```
 
 ---
