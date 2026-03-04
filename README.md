@@ -176,9 +176,9 @@ El notebook `main.ipynb` ejecuta los siguientes 16 pasos en orden:
 
 | Nombre | Rol |
 |---|---|
-| [Nombre 1] | EDA y análisis exploratorio |
-| [Nombre 2] | Preprocesado y feature engineering |
-| [Nombre 3] | Modelado, optimización y evaluación |
+| Kelly Escalante | EDA y análisis exploratorio |
+| Jorge Martinez | Preprocesado y feature engineering |
+| Rebeca Prior| Modelado, optimización y evaluación |
 
 ---
 
